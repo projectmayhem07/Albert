@@ -9,8 +9,11 @@ Albie is in real trouble. Please help him to choose right choices.
 * Second rule of Albie's Choice is there are no other rules.
 
 So les start.
-
-## [START](./1.md)
+## Dificulty level
+### [2020](./1.md)
+### [HARD](./nice.md)
+### [MEDIUM](./nice.md)
+### [EASY](./nice.md)
 
 
 
